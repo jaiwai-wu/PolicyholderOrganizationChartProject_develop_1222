@@ -4,7 +4,7 @@
 ## 一、先進行建立資料庫
 
 ```bash
- python .\create_user_info.py
+ python create_user_info.py
 ```
 
 
